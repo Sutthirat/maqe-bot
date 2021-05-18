@@ -5,7 +5,7 @@ MAQE has built a robot called MAQE Bot which walks in 2-dimensional plane (X, Y 
 
 -   **R**: Turn 90 degree to the right of MAQE Bot (clockwise)
 -   **L**: Turn 90 degree to the left of MAQE Bot (counterclockwise)
--   **W****_N_**: Walk straight for  **_N_**  point(s) where  **_N_**  can be any positive integers. For example,  **W1**  means walking straight for 1 point.
+-   **WN**: Walk straight for  **_N_**  point(s) where  **_N_**  can be any positive integers. For example,  **W1**  means walking straight for 1 point.
 
 **Initial Conditions:**
 
